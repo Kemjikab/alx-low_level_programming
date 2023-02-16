@@ -1,2 +1,0 @@
-#!/bin/bash
-gcc -E bright.c -O C
